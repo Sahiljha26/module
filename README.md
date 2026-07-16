@@ -7,7 +7,7 @@ Welcome to my repository. This space is dedicated to organizing and sharing acad
 ## 📂 Repository Contents
 
 * 📄 **Module 1.pdf** - Comprehensive notes covering the fundamental topics of Module 1.
-
+* 📄 **Module 2.pdf** - Detailed lecture notes and study material for Module 2.
 ---
 
 ## 🎯 Key Objectives
